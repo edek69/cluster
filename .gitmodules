@@ -1,3 +1,6 @@
 [submodule "namespace/testns"]
 	path = namespace/testns
 	url = https://github.com/edek69/testns
+[submodule "namespace/testns2"]
+	path = namespace/testns2
+	url = https://github.com/edek69/testns.git
